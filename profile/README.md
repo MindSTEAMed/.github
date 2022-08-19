@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
@@ -14,4 +14,4 @@ Minecraft Mods creator (java) || Arduino, ESP32X, ESP86XX (c++) || Linux Server 
 Sopaipillas ... pronto el mapa de las Sopaipillas en Santiago de Chile
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 Y tambien revisen nuestros sitios web: [WebPage](https://mindsteam.cl/) || [Instagram](https://www.instagram.com/mindsteamed/) || [Facebook](https://www.facebook.com/mindsteam)
--->
+
